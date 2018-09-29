@@ -8,6 +8,8 @@ Local should be open and the Local tab clicked once.
 
 Configuration items are at the top of the file. All fairly obvious I hope.
 
+However many people there are in Local when you start the code is the safe amount. If someone arrives or leaves local then it will sound an alarm.
+
 Copy the code into your Sanderling window and start it
 
 
